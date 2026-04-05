@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZedList - Privacy Policy</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.8; color: #333; background-color: #f9f9f9; }
+        .container { max-width: 860px; margin: 0 auto; padding: 40px 24px; background: #fff; min-height: 100vh; }
+        h1 { font-size: 28px; color: #1a1a1a; margin-bottom: 8px; }
+        .subtitle { font-size: 14px; color: #777; margin-bottom: 32px; }
+        h2 { font-size: 20px; color: #222; margin-top: 32px; margin-bottom: 12px; border-bottom: 2px solid #FF6B35; padding-bottom: 6px; }
+        h3 { font-size: 16px; color: #333; margin-top: 20px; margin-bottom: 8px; }
+        p, li { font-size: 15px; margin-bottom: 10px; }
+        ul { padding-left: 24px; margin-bottom: 16px; }
+        li { margin-bottom: 6px; }
+        .highlight { background: #fff8f4; border-left: 4px solid #FF6B35; padding: 16px; margin: 16px 0; border-radius: 4px; }
+        .footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid #eee; font-size: 13px; color: #999; text-align: center; }
+        a { color: #FF6B35; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="subtitle">ZedList &mdash; Africa's Online Marketplace &bull; Effective Date: January 2025 &bull; Last Updated: April 2026</p>
+
+        <p>Welcome to ZedList ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when you use the ZedList mobile application and associated services (collectively, the "Service"). By accessing or using ZedList, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the Service.</p>
+
+        <h2>1. Information We Collect</h2>
+
+        <h3>1.1 Information You Provide Directly</h3>
+        <p>When you create an account or use our Service, you may provide the following information:</p>
+        <ul>
+            <li><strong>Account Information:</strong> When you sign in using Google Sign-In (powered by Google OAuth 2.0), we receive your Google account display name, email address, and profile photo URL. We do not receive or store your Google account password.</li>
+            <li><strong>Listing Information:</strong> When you post a listing, you provide a title, description, price, category, images, and optionally a phone number, email address, and website URL for contact purposes.</li>
+            <li><strong>Location Information:</strong> You may provide or confirm your country, province, district, and community to help buyers find listings near them.</li>
+            <li><strong>Communication Data:</strong> If you contact us for support or submit a report, we collect the content of that communication.</li>
+        </ul>
+
+        <h3>1.2 Information Collected Automatically</h3>
+        <p>When you use the Service, certain information is collected automatically:</p>
+        <ul>
+            <li><strong>Device Information:</strong> Device type, operating system, operating system version, app version, screen resolution, and device language settings.</li>
+            <li><strong>Usage Data:</strong> Pages and features you access, time spent on the app, interaction patterns, and navigation paths.</li>
+            <li><strong>Log Data:</strong> IP address, access timestamps, referring URLs, and crash or error reports.</li>
+            <li><strong>Approximate Location:</strong> With your explicit permission, we use your device's GPS or network-based location services to determine your country. This is used solely to display country-relevant listings and to assign your country flag. We do not track, store, or share your precise GPS coordinates.</li>
+        </ul>
+
+        <h3>1.3 Information from Third-Party Services</h3>
+        <ul>
+            <li><strong>Google Sign-In:</strong> When you authenticate via Google, we receive only the scopes you authorize (typically email, display name, and profile picture). We access this data through Google's secure OAuth 2.0 protocol.</li>
+            <li><strong>Google AdMob:</strong> Our app displays advertisements through Google AdMob. AdMob may collect device advertising identifiers (such as the Google Advertising ID), IP address, and general interaction data to serve relevant ads. Please refer to <a href="https://policies.google.com/privacy" target="_blank">Google's Privacy Policy</a> for details.</li>
+            <li><strong>RevenueCat:</strong> For subscription management, we use RevenueCat, which processes purchase transactions through Google Play Billing. RevenueCat may receive your anonymized user identifier and purchase history. Please refer to <a href="https://www.revenuecat.com/privacy" target="_blank">RevenueCat's Privacy Policy</a> for details.</li>
+            <li><strong>Supabase:</strong> Our backend infrastructure is hosted on Supabase. Data is transmitted and stored securely using industry-standard encryption. Please refer to <a href="https://supabase.com/privacy" target="_blank">Supabase's Privacy Policy</a> for details.</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        <p>We use the information we collect for the following purposes:</p>
+        <ul>
+            <li><strong>Providing the Service:</strong> To create and manage your account, display your listings to potential buyers, and enable communication between buyers and sellers.</li>
+            <li><strong>Location-Based Features:</strong> To display listings relevant to your country and region, show your country flag to other users, and enforce country-based posting rules.</li>
+            <li><strong>Personalization:</strong> To remember your preferences, selected country, and browsing history within the app.</li>
+            <li><strong>Advertising:</strong> To display advertisements through Google AdMob. Pro subscribers have ads removed as part of their subscription benefits.</li>
+            <li><strong>Subscription Management:</strong> To process and manage your subscription plan, verify entitlements, and enforce plan-specific usage limits.</li>
+            <li><strong>Safety and Security:</strong> To detect and prevent fraud, abuse, spam, and violations of our Terms and Conditions.</li>
+            <li><strong>Analytics and Improvement:</strong> To understand how users interact with our Service, identify technical issues, and improve the overall user experience.</li>
+            <li><strong>Legal Compliance:</strong> To comply with applicable laws, regulations, and legal processes.</li>
+            <li><strong>Communication:</strong> To send important service updates, security alerts, and policy changes. We do not send marketing emails.</li>
+        </ul>
+
+        <h2>3. How We Share Your Information</h2>
+        <p>We do not sell, rent, or trade your personal information to third parties. We may share information in the following limited circumstances:</p>
+        <ul>
+            <li><strong>Public Listing Data:</strong> When you post a listing, your listing title, description, images, price, category, location (country, province, district), and contact information (phone number, email, or website, if provided) are visible to all users of the Service.</li>
+            <li><strong>Country Flag:</strong> Your detected or selected country flag is displayed publicly next to your listings to help buyers identify seller locations.</li>
+            <li><strong>Service Providers:</strong> We share data with trusted third-party service providers (Google, Supabase, RevenueCat) solely to operate and improve the Service. These providers are bound by their own privacy policies and data processing agreements.</li>
+            <li><strong>Legal Requirements:</strong> We may disclose information if required by law, regulation, legal process, or governmental request, or to protect the rights, property, or safety of ZedList, our users, or the public.</li>
+            <li><strong>Business Transfers:</strong> In the event of a merger, acquisition, or sale of assets, user data may be transferred as part of that transaction. We will notify users of any such change.</li>
+        </ul>
+
+        <div class="highlight">
+            <strong>Important:</strong> All transactions (buying and selling) occur directly between users. ZedList does not process payments, handle deliveries, or act as an intermediary in any transaction. We strongly recommend meeting in safe, public locations for in-person exchanges.
+        </div>
+
+        <h2>4. Authentication and Account Security</h2>
+        <p>ZedList uses <strong>Google Sign-In</strong> as the sole method of authentication. This means:</p>
+        <ul>
+            <li>We never create, store, or manage passwords. Authentication is handled entirely by Google's secure OAuth 2.0 infrastructure.</li>
+            <li>Your Google credentials are never transmitted to or stored on our servers.</li>
+            <li>You can revoke ZedList's access at any time through your <a href="https://myaccount.google.com/permissions" target="_blank">Google Account permissions</a>.</li>
+            <li>Each Google account corresponds to one ZedList user account. Your unique Google user ID is used to associate your listings and subscription with your account.</li>
+            <li>Session tokens are managed securely through Supabase Auth and are automatically refreshed or expired according to industry best practices.</li>
+        </ul>
+
+        <h2>5. Location Data</h2>
+        <p>Location data is a core part of ZedList's functionality as a regional marketplace:</p>
+        <ul>
+            <li><strong>Permission:</strong> We request location permission explicitly before accessing your device's location services. You may deny this permission, though it will limit certain features.</li>
+            <li><strong>Purpose:</strong> Location is used only to determine your country for displaying relevant listings and assigning a country flag.</li>
+            <li><strong>Precision:</strong> We resolve your location to country level only. Your exact latitude and longitude are processed in-memory on your device and are not stored on our servers.</li>
+            <li><strong>Manual Override:</strong> You can manually select a different country to browse listings from other African nations. However, you may only post listings in your home country.</li>
+            <li><strong>Revocation:</strong> You may revoke location permission at any time through your device settings. Some features may become unavailable.</li>
+        </ul>
+
+        <h2>6. Advertising</h2>
+        <p>ZedList displays advertisements to support the free tier of the Service:</p>
+        <ul>
+            <li><strong>Ad Provider:</strong> Advertisements are served by Google AdMob, a service operated by Google LLC.</li>
+            <li><strong>Ad Types:</strong> The app may display banner ads, interstitial ads, and rewarded ads.</li>
+            <li><strong>Data Used for Ads:</strong> AdMob may use your device's advertising identifier, general location (country/region), and anonymized interaction data to serve contextually relevant advertisements.</li>
+            <li><strong>Ad-Free Experience:</strong> Users who subscribe to the Pro plan through Google Play have all advertisements removed automatically.</li>
+            <li><strong>Opt-Out:</strong> You can limit personalized advertising by adjusting your device's ad settings (Settings &gt; Google &gt; Ads on Android devices) or by subscribing to the Pro plan.</li>
+        </ul>
+
+        <h2>7. Subscriptions and In-App Purchases</h2>
+        <ul>
+            <li>Subscriptions are processed through <strong>Google Play Billing</strong> and managed via RevenueCat.</li>
+            <li>We do not collect or store your payment card details. All payment processing is handled by Google Play.</li>
+            <li>Subscription entitlements (e.g., Pro status) are verified server-side through RevenueCat to prevent tampering.</li>
+            <li>You can manage or cancel your subscription at any time through the Google Play Store &gt; Subscriptions.</li>
+        </ul>
+
+        <h2>8. Data Storage and Security</h2>
+        <ul>
+            <li>Your data is stored securely on Supabase's cloud infrastructure, which uses PostgreSQL databases with encryption at rest and in transit (TLS 1.2+).</li>
+            <li>Row-Level Security (RLS) policies ensure that users can only access and modify their own data.</li>
+            <li>We implement rate limiting, input sanitization, and content validation to protect against abuse and injection attacks.</li>
+            <li>Images uploaded with listings are stored in secure cloud storage with access controls.</li>
+            <li>While we take reasonable measures to protect your data, no method of electronic transmission or storage is 100% secure. We cannot guarantee absolute security.</li>
+        </ul>
+
+        <h2>9. Data Retention</h2>
+        <ul>
+            <li><strong>Account Data:</strong> Your account information is retained for as long as your account is active.</li>
+            <li><strong>Listings:</strong> Listings remain visible until you delete them or your account is terminated.</li>
+            <li><strong>Usage Logs:</strong> Anonymized usage and analytics data may be retained for up to 24 months for service improvement purposes.</li>
+            <li><strong>Deleted Data:</strong> When you delete your account or a listing, the data is permanently removed from our active databases within 30 days. Residual copies in encrypted backups are purged according to Supabase's backup retention schedule.</li>
+        </ul>
+
+        <h2>10. Your Rights</h2>
+        <p>Depending on your jurisdiction, you may have the following rights regarding your personal data:</p>
+        <ul>
+            <li><strong>Access:</strong> You can view your account information and listings at any time within the app.</li>
+            <li><strong>Correction:</strong> You can edit your listings and update your contact information.</li>
+            <li><strong>Deletion:</strong> You can delete individual listings or request full account deletion by contacting us.</li>
+            <li><strong>Portability:</strong> You may request a copy of your personal data in a structured, machine-readable format.</li>
+            <li><strong>Restriction:</strong> You may request that we limit the processing of your personal data under certain circumstances.</li>
+            <li><strong>Objection:</strong> You may object to processing of your personal data for certain purposes.</li>
+            <li><strong>Withdraw Consent:</strong> You can revoke Google Sign-In access or location permissions at any time through your device or Google account settings.</li>
+        </ul>
+        <p>To exercise any of these rights, please contact us using the information provided in Section 15 below.</p>
+
+        <h2>11. Children's Privacy</h2>
+        <p>ZedList is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from children. If we become aware that we have inadvertently collected data from a child under 18, we will take immediate steps to delete such information from our servers. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.</p>
+
+        <h2>12. International Data Transfers</h2>
+        <p>ZedList operates across multiple African countries. Your data may be processed and stored in countries other than your own. By using the Service, you consent to the transfer of your information to countries that may have different data protection laws. We ensure that appropriate safeguards are in place, including the use of encrypted connections and reputable, compliant service providers.</p>
+
+        <h2>13. Cookies and Local Storage</h2>
+        <ul>
+            <li>ZedList uses browser local storage (not cookies) to store your preferences, selected country, and session state.</li>
+            <li>No third-party tracking cookies are placed by ZedList directly.</li>
+            <li>Third-party services (Google AdMob, Google Analytics) may use their own cookies or identifiers as described in their respective privacy policies.</li>
+            <li>You can clear local storage at any time through your browser or app settings, though this will reset your preferences.</li>
+        </ul>
+
+        <h2>14. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, or other factors. When we make material changes, we will:</p>
+        <ul>
+            <li>Update the "Last Updated" date at the top of this page.</li>
+            <li>Notify users through an in-app notice where appropriate.</li>
+            <li>Post the revised policy on this page.</li>
+        </ul>
+        <p>Your continued use of the Service after any changes constitutes your acceptance of the updated Privacy Policy.</p>
+
+        <h2>15. Contact Us</h2>
+        <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+        <ul>
+            <li><strong>App:</strong> Use the "Report" feature within the ZedList app.</li>
+            <li><strong>Email:</strong> zedlistapp@gmail.com</li>
+        </ul>
+        <p>We will respond to all legitimate requests within 30 days.</p>
+
+        <div class="footer">
+            <p>&copy; 2025&ndash;2026 ZedList. All rights reserved.</p>
+            <p>This Privacy Policy is effective as of January 2025 and was last updated in April 2026.</p>
+        </div>
+    </div>
+</body>
+</html>
